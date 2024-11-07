@@ -1,0 +1,43 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-e0375655f3e17d66.js",
+      "static/chunks/4bd1b696-c522c40927193141.js",
+      "static/chunks/215-97ea43b5e9edce26.js",
+      "static/chunks/main-app-0c5dea97c8bddc9a.js",
+      "static/chunks/app/_not-found/page-87a88d5db80ca99d.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-e0375655f3e17d66.js",
+      "static/chunks/4bd1b696-c522c40927193141.js",
+      "static/chunks/215-97ea43b5e9edce26.js",
+      "static/chunks/main-app-0c5dea97c8bddc9a.js",
+      "static/css/868a1c4612507a80.css",
+      "static/chunks/app/layout-5e7be04f5dd3d005.js"
+    ],
+    "/Mediciones/page": [
+      "static/chunks/webpack-e0375655f3e17d66.js",
+      "static/chunks/4bd1b696-c522c40927193141.js",
+      "static/chunks/215-97ea43b5e9edce26.js",
+      "static/chunks/main-app-0c5dea97c8bddc9a.js",
+      "static/chunks/ee560e2c-ba4b86bc200afce7.js",
+      "static/chunks/app/Mediciones/page-7a8a873c5e21ccf4.js"
+    ],
+    "/Reconocimiento/page": [
+      "static/chunks/webpack-e0375655f3e17d66.js",
+      "static/chunks/4bd1b696-c522c40927193141.js",
+      "static/chunks/215-97ea43b5e9edce26.js",
+      "static/chunks/main-app-0c5dea97c8bddc9a.js",
+      "static/chunks/8e1d74a4-fd9518353b571856.js",
+      "static/chunks/app/Reconocimiento/page-621c2fbccb5fba7e.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-e0375655f3e17d66.js",
+      "static/chunks/4bd1b696-c522c40927193141.js",
+      "static/chunks/215-97ea43b5e9edce26.js",
+      "static/chunks/main-app-0c5dea97c8bddc9a.js",
+      "static/chunks/138-605fa5be13f49743.js",
+      "static/chunks/app/page-d7e953a2a18f2b1d.js"
+    ]
+  }
+}

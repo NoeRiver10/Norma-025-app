@@ -1,0 +1,36 @@
+{
+  "name": "Norma 25 Aplicación",
+  "short_name": "NOM 025 app",
+  "description": "Una aplicación web progresiva con funcionalidades offline.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3e4eb8",
+  "id": "/",
+  "icons": [
+      {
+          "src": "/icons/lictus-logo-1-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+      },
+      {
+          "src": "/icons/lictus-logo-1-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+      }
+  ],
+  "screenshots": [
+      {
+          "src": "/screenshots/image.png",
+          "sizes": "1919x882",
+          "type": "image/png",
+          "form_factor": "wide"
+      },
+      {
+          "src": "/screenshots/imagen1.png",
+          "sizes": "710x1537",
+          "type": "image/png",
+          "form_factor": "narrow"
+      }
+  ]
+}
