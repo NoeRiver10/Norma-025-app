@@ -1,15 +1,17 @@
 // Nombre de la caché para identificar los recursos que almacenamos
-const CACHE_NAME = 'nom025-app-cache-v4';  // Versión incrementada para forzar la actualización
+const CACHE_NAME = 'nom025-app-cache-v5';  // Versión incrementada para forzar la actualización
+
 // Lista de recursos que queremos cachear para hacer disponible offline
 const urlsToCache = [
-    '/',
-    '/manifest.json',
-    '/favicon.ico',
-    '/icons/lictus-logo-1-192x192.png',
+    '/',  // Página principal
+    '/manifest.json',  // Manifesto de la aplicación
+    '/favicon.ico',  // Ícono de la aplicación
+    '/icons/lictus-logo-1-192x192.png',  // Íconos
     '/icons/lictus-logo-1-512x512.png',
     '/offline.html',  // Página de respaldo para mostrar cuando no hay conexión
-    '/Reconocimiento',
-    '/Mediciones',
+    '/Reconocimiento',  // Página de reconocimiento
+    '/Mediciones',  // Página de mediciones
+    '/page',  // Página principal renderizada (si aplica)
 ];
 
 // Instalación del Service Worker
