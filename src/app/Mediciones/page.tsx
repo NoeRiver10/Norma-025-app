@@ -5,6 +5,8 @@ import { useAreas } from '../context/areascontext';
 import { useRouter } from 'next/navigation';
 import MedicionesGeneral from '../components/ComponentsMediciones/medicionesGeneral';
 import ResumenMedicion from '../components/ComponentsMediciones/resumenMedicion';
+import * as XLSX from 'xlsx';
+import { saveAs } from 'file-saver';
 
 const NIVELES_ILUMINACION = [20, 50, 100, 200, 300, 500, 750, 1000, 2000];
 
@@ -337,7 +339,6 @@ export default function MedicionesPage() {
               Ir a Resumen
             </button>
           </div>
-
           <div className="flex space-x-4 mb-8 mt-4">
             <button
               type="button"
