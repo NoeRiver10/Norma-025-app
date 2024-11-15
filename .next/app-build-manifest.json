@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "pages": {
     "/layout": [
       "static/chunks/webpack.js",
@@ -12,4 +13,7 @@
       "static/chunks/app/Mediciones/page.js"
     ]
   }
+=======
+  "pages": {}
+>>>>>>> cb648da (Excel y principal)
 }
