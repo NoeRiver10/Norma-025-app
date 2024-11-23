@@ -5,14 +5,7 @@ self.__BUILD_MANIFEST = {
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [],
-<<<<<<< HEAD
-  "rootMainFiles": [
-    "static/chunks/webpack.js",
-    "static/chunks/main-app.js"
-  ],
-=======
   "rootMainFiles": [],
->>>>>>> cb648da (Excel y principal)
   "rootMainFilesTree": {},
   "pages": {
     "/_app": []
