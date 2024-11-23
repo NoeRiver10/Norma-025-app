@@ -71,7 +71,7 @@ export default function DimensionesArea({ data, setData }: DimensionesAreaProps)
         {/* Altura */}
         <div>
           <label htmlFor="altura" className="block text-lg font-semibold text-gray-800 mb-2">
-            Altura (mts):
+            Altura (m):
           </label>
           <input
             type="number"
@@ -87,7 +87,7 @@ export default function DimensionesArea({ data, setData }: DimensionesAreaProps)
         {/* Largo */}
         <div>
           <label htmlFor="largo" className="block text-lg font-semibold text-gray-800 mb-2">
-            Largo (mts):
+            Largo (m):
           </label>
           <input
             type="number"
@@ -103,7 +103,7 @@ export default function DimensionesArea({ data, setData }: DimensionesAreaProps)
         {/* Ancho */}
         <div>
           <label htmlFor="ancho" className="block text-lg font-semibold text-gray-800 mb-2">
-            Ancho (mts):
+            Ancho (m):
           </label>
           <input
             type="number"
